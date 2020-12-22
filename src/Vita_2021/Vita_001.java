@@ -5,5 +5,6 @@ public class Vita_001 {
         System.out.println("Hi, everyone!");
         System.out.println("How are you? Let's practice our new project");
         System.out.println("Wow! We are doing amazing job!");
+        System.out.println("Created new branch");
     }
 }
