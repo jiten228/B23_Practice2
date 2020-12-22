@@ -8,7 +8,7 @@ public class Ariz {
         System.out.println("Observe head lower right corner it should be on Branch");
         System.out.println("Bank of America");
         System.out.println("Head should be on branch & push the code");
-
+        System.out.println("");
 
     }
 
