@@ -7,6 +7,11 @@ public class Yizaiti_2021 {
 
         System.out.println("Java class is fun ");
 
+        System.out.println("Holiday is come");
+
+        System.out.println("Today is sunny day");
+
+        System.out.println("Tonight no class ");
 
 
 
