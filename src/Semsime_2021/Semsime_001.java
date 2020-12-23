@@ -5,6 +5,9 @@ public class Semsime_001 {
 
         System.out.println("Hello Guys!");
         System.out.println("How are you?");
+        System.out.println("Happy new year!");
+
+
 
     }
 
