@@ -5,6 +5,7 @@ public class Semsime_001 {
         System.out.println("I try it again");
         System.out.println("Hello again!");
         System.out.println("Let's make something new");
+        System.out.println("Some different things again");
 
 
 
