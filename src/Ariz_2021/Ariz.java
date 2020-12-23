@@ -8,7 +8,7 @@ public class Ariz {
         System.out.println("GitHub Recap");
         System.out.println("What is Maven?");
         System.out.println("Test");
-
+        System.out.println("Selenium");
 
     }
 
