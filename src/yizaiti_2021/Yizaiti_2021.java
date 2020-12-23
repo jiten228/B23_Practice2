@@ -9,6 +9,7 @@ public class Yizaiti_2021 {
 
         System.out.println("Holiday is come");
 
+        System.out.println("Today is sunny day");
 
 
 
