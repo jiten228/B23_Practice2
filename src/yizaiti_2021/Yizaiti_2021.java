@@ -5,6 +5,8 @@ public class Yizaiti_2021 {
 
         System.out.println("Today has group meeeting.");
 
+        System.out.println("Java class is fun ");
+
 
 
 
