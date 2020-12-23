@@ -11,6 +11,8 @@ public class Yizaiti_2021 {
 
         System.out.println("Today is sunny day");
 
+        System.out.println("Tonight no class ");
+
 
 
 
