@@ -10,6 +10,7 @@ public class Ariz {
         System.out.println("Test");
         System.out.println("Selenium");
         System.out.println("DataBase");
+System.out.println("DataBase");
     }
 
 
