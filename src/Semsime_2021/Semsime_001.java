@@ -8,6 +8,7 @@ public class Semsime_001 {
         System.out.println("Some different things again");
         System.out.println("And the  last  one");
         System.out.println("I'm really confused");
+        System.out.println("Today Github Practice");
 
 
 
