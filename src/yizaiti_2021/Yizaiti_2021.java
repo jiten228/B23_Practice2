@@ -13,6 +13,7 @@ public class Yizaiti_2021 {
 
         System.out.println("Tonight no class ");
 
+        System.out.println(" new information ");
 
 
 
